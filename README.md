@@ -4,9 +4,12 @@ Welcome to my professional portfolio! This site showcases my work at the interse
 
 ## About Me
 
-I'm a senior at Syracuse University's Whitman School of Management studying Entrepreneurship and Emerging Enterprises with a minor in Information Technology: Innovation, Design, and Startups from the iSchool. I'm passionate about turning sustainability challenges into business opportunities through innovative technology solutions.
+I'm a senior at Syracuse University's Whitman School of Management studying Entrepreneurship and Emerging Enterprises with a minor in Information Technology, Design, and Startups from the iSchool. I'm passionate about turning sustainability challenges into business opportunities through innovative technology solutions.
 
 ## 🚀 Featured Projects
+
+### BPC Green Builders Strategic Analysis
+Comprehensive strategic analysis of worker-owned sustainable housing company examining market positioning and competitive landscape in the $364.6B global green building market.
 
 ### Rescue Kitchen Capsule
 Innovative design solution providing displaced people with portable, sustainable cooking capabilities addressing food security and dignity.
@@ -28,15 +31,15 @@ Concept for adaptive learning platform leveraging AI to personalize educational 
 
 ## 💻 Technical Skills
 
-- **Languages:** Python, JavaScript, Java, R, RStudio
+- **Languages:** Python, JavaScript, Java, R
 - **Specializations:** Sustainability Strategy, Green Supply Chain Management, Innovation Design, Business Consulting
-- **Coursework:** Climate Change Studies, Sustainable Venturing, Information Technology Design, Green Supply Chain, Entrepreneurial Problems and Turnarounds
+- **Coursework:** Climate Change Studies, Sustainable Venturing, Information Technology Design
 
 ## 📫 Connect With Me
 
-- **Portfolio:** [Margot-MacKechnie.github.io](https://Margot-MacKechnie.github.io)
-- **LinkedIn:** [linkedin.com/in/margot-mackechnie-sustainable-innovation](https://linkedin.com/in/margot-mackechnie-sustainable-innovation)
-- Contact: Use the contact form on my portfolio site
+- **Portfolio:** [margot-mackechnie.github.io](https://margot-mackechnie.github.io)
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **Contact:** Use the contact form on my portfolio site
 
 ## 🛠️ Built With
 
